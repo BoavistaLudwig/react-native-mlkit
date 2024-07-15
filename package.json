@@ -25,6 +25,7 @@
     "@changesets/get-release-plan": "^3.0.17",
     "@turbo/gen": "^1.9.7",
     "@types/jest": "^29.5.5",
+    "cross-env": "^7.0.3",
     "eslint": "^8.0.0",
     "execa": "^8.0.1",
     "jest": "^29.7.0",
@@ -43,5 +44,8 @@
   "packageManager": "yarn@3.6.1",
   "repository": "https://www.github.com/infinitered/react-native-mlkit",
   "homepage": "https://infinitered.github.io/react-native-mlkit",
-  "x": "http://localhost:3000/react-native-mlkit/face-detection/options/"
+  "x": "http://localhost:3000/react-native-mlkit/face-detection/options/",
+  "dependencies": {
+    "expo-updates": "~0.25.19"
+  }
 }

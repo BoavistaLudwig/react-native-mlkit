@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4fcea344-286c-4d75-b543-cdd1be4b6fb3"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.heylord.example"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4fcea344-286c-4d75-b543-cdd1be4b6fb3"
+    },
+    "android": {}
+  }
+}
